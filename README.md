@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  <img alt="Hi I'm Alvin Joy" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=30&lines=Hi%2C+I'm+Darwin+Thomas&center=true">
+</h1
+  <p align="center">
+  <a href="https://github.com/drakkken">
+    <img src="https://github-readme-stats.vercel.app/api?username=drakkken&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Darwin's github stats" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/drakkken">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakkken&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
+  </a>
+</p>
+
 
 <!--
 **akshaic/akshaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
